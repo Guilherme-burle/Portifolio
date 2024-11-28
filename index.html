@@ -4,26 +4,44 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Guilherme Burle - Portfólio</title>
-  <link rel="stylesheet" href="../estilos/estilo.css">
+  <link rel="stylesheet" href="estilos/estilo.css">
 </head>
 <body>
   <header>
     <nav>
       <ul class="navbar">
-        <li><a href="index.html">Início</a></li>
-        <li><a href="sobre.html">Sobre</a></li>
-        <li><a href="projetos.html">Projetos</a></li>
+        <li><a href="index.html" class="nav-item">Início</a></li>
+        <li><a href="sobre.html" class="nav-item">Sobre</a></li>
+        <li><a href="projetos.html" class="nav-item">Projetos</a></li>
       </ul>
     </nav>
+    <button id="changeColorButton" class="toggle-theme-btn">Clique para mudar o tema</button>
   </header>
+
   <main class="home">
-    <h1>Bem-vindo ao meu Portfólio!</h1>
-    <p>Olá! Meu nome é Guilherme Burle, estudante de Ciência da Computação. Aqui você pode conhecer mais sobre mim e meus projetos.</p>
-    <button id="changeColorButton">Clique para mudar o tema</button>
+    <div class="intro">
+      <img src="https://via.placeholder.com/150" alt="Foto de Guilherme Burle" class="profile-photo">
+      <div class="personal-info">
+        <h1>Bem-vindo ao meu Portfólio!</h1>
+        <p>Olá! Meu nome é Guilherme Burle, sou estudante de Ciência da Computação no primeiro período da CESAR School. Tenho 19 anos e sou apaixonado por tecnologia, programação e inovação. Ao longo da minha jornada acadêmica, fui introduzido em áreas como desenvolvimento web, inteligência artificial e ciência de dados, as quais todas me chamam atenção. Tenho grande interesse em aprender como resolver problemas complexos através da programação e explorar novas possibilidades tecnológicas para impactar positivamente o mundo.</p>
+        <p>Meu objetivo é me tornar um profissional altamente qualificado na área de tecnologia, com habilidades em diversas linguagens de programação e frameworks, além de contribuir para projetos inovadores que tragam soluções reais para desafios do cotidiano.</p>
+      </div>
+    </div>
   </main>
+
+  <section class="contact-section">
+    <h2>Meus Contatos</h2>
+    <ul class="contact-list">
+      <li>Email: <a href="mailto:guiburle1320@gmail.com">guiburle1320@gmail.com</a></li>
+      <li>LinkedIn: <a href="https://www.linkedin.com/in/guilherme-burle-434236337/" target="_blank">Guilherme Burle no LinkedIn</a></li>
+      <li>Instagram: <a href="https://www.instagram.com/guilherme.burle/" target="_blank">Instagram</a></li>
+    </ul>
+  </section>
+
   <footer>
     <p>&copy; 2024 Guilherme Burle Medeiros</p>
   </footer>
+
   <script src="scripts/script.js"></script>
 </body>
 </html>
