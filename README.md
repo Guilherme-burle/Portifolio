@@ -24,3 +24,9 @@ Este é o meu portfólio pessoal, criado para compartilhar informações sobre m
 - │  └── script.js
 - └── README.md
 
+
+## Contato
+- **Email:** guiburle1320@gmail.com
+- **LinkedIn:** [linkedin.com/in/guilherme-burle](https://www.linkedin.com/in/guilherme-burle-434236337/)
+- **Instagram:** [instagram.com/guilherme.burle](https://www.instagram.com/guilherme.burle/)
+
