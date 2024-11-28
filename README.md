@@ -18,9 +18,9 @@ portfolio/
 ├── index.html
 ├── sobre.html
 ├── projetos.html
-├── estilos/│   
-└── estilo.css
-├── scripts/│   
-└── script.js
+├── estilos/
+│  └── estilo.css
+├── scripts/
+│  └── script.js
 └── README.md
 
