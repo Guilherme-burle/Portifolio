@@ -22,4 +22,5 @@ function toggleTheme() {
 
 applySavedTheme();
 
+
 document.getElementById('changeColorButton').addEventListener('click', toggleTheme);
