@@ -14,13 +14,13 @@ Este é o meu portfólio pessoal, criado para compartilhar informações sobre m
 - JavaScript
 
 ## Estrutura do Projeto
-portfolio/
-├── index.html
-├── sobre.html
-├── projetos.html
-├── estilos/
-│  └── estilo.css
-├── scripts/
-│  └── script.js
-└── README.md
+- portfolio/
+- ├── index.html
+- ├── sobre.html
+- ├── projetos.html
+- ├── estilos/
+- │  └── estilo.css
+- ├── scripts/
+- │  └── script.js
+- └── README.md
 
